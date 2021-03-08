@@ -1,1 +1,1 @@
-web: yarn heroku
+web: nuxt start
